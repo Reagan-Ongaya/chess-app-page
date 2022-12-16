@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "Reagan Ongaya"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "Chess-page-app",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "Reagan Ongaya"
+    }
+}
